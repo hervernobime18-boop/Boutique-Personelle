@@ -3,7 +3,7 @@
    ============================================================ */
 const CONFIG = {
   storeName: "Ma Boutique",
-  whatsappNumber: "22900000000", // format international, sans + ni espaces (ex : 22997000000)
+  whatsappNumber: "2290197578968", // format international, sans + ni espaces (ex : 22997000000)
   currency: "FCFA",
 };
 
